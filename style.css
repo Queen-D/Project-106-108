@@ -1,0 +1,47 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(255, 0, 140);
+}
+
+.header{
+    background-color: rgb(162, 89, 229);
+    color: black;
+}
+
+.header p{
+    color: black;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main button{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+    color: white;
+}
+
+.footer{
+    position: fixed;
+    background-color: cornflowerblue;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    font-size: 20px;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px grey;
+}
+
+#resultconf{
+    font-size: 25px;
+    color: yellow;
+}
+
+#resultlabel{
+    font-size: 25px;
+    color: yellow;
+}
